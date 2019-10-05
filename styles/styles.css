@@ -1,4 +1,6 @@
-
+* {
+  font-family: "Avenir"
+}
 
 h1 {
   color: #003399;
@@ -9,9 +11,55 @@ h2 {
 }
 
 h4 {
-color: #3366CC;
+color: #555555;
 }
 
 body {
   background-color: #FFFFFF;
+}
+
+table {
+  border: 2px solid black;
+  text-align: center;
+}
+
+.destination {
+  color: BlueViolet;
+  font-size: 15px;
+  font-style: arial;
+}
+
+.unique-species {
+  padding: 2px 10px;
+  margin: 0px 30px;
+}
+
+.menu-link {
+  color: DodgerBlue;
+}
+
+a:hover{
+  color: HotPink;
+}
+
+#menu a:hover {
+  color: white;
+}
+
+#menu {
+  background-color: DarkBlue;
+  padding: 20px 20px 20px 20px;
+  font-family: "Avenir"
+}
+
+#footer {
+  background-color: DodgerBlue;
+}
+
+#page-title {
+  text-align: center;
+}
+
+a[href="https://www.ucvts.tec.nj.us/"] {
+  color: white;
 }
