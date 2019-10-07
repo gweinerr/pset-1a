@@ -62,3 +62,8 @@ a[href="https://www.ucvts.tec.nj.us/"] {
 a[href="https://www.ucvts.tec.nj.us/site/Default.aspx?PageID=471"] {
   color: white;
 }
+
+ul > li {
+  font-family: "Didot";
+  color: #555555;
+}
