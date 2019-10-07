@@ -35,7 +35,7 @@ table {
 }
 
 a:hover {
-  color: HotPink;
+  color: green;
 }
 
 #menu a:hover {
@@ -56,5 +56,9 @@ a:hover {
 }
 
 a[href="https://www.ucvts.tec.nj.us/"] {
+  color: white;
+}
+
+a[href="https://www.ucvts.tec.nj.us/site/Default.aspx?PageID=471"] {
   color: white;
 }
